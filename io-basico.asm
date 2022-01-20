@@ -7,7 +7,6 @@
 	str1: .asciiz "Testando a escrita de uma String: "
 
 
-
 .text 
 
 	#Leitura de inteiros
