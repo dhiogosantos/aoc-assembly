@@ -12,6 +12,7 @@
 	#printf("O numero digitado eh par ! \n"); 
 # else
 	#printf("O numero digitado eh impar ! \n");
+	
 
 .data
 	str1: .asciiz "Digite o numero a ser testado: "
